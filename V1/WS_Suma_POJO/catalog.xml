@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://148.205.133.89:15799/Ws_uno/WS_Suma?WSDL" uri="xml-resources/web-service-references/WS_Suma/wsdl/148.205.133.89_15799/Ws_uno/WS_Suma.wsdl"/>
+    <system systemId="http://148.205.133.89:15799/Ws_uno/WS_Suma?xsd=1" uri="xml-resources/web-service-references/WS_Suma/wsdl/148.205.133.89_15799/Ws_uno/WS_Suma.xsd_1.xsd"/>
+</catalog>
