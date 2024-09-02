@@ -31,16 +31,5 @@ public class WS_Suma {
     public int suma(@WebParam(name = "a") int a, @WebParam(name = "n") int n) {
         return a + n;
     }
-
-    /**
-     * Web service operation
-     */
-    @WebMethod(operationName = "division")
-    public double division(@WebParam(name = "a") int a, @WebParam(name = "b") int b) {
-        //TODO write your implementation code here:
-        return 0.0;
-    }
-    
-    
     
 }
